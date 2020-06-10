@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\bin\Debug\netcoreapp3.1\TextRPG_Job.exe
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\bin\Debug\netcoreapp3.1\TextRPG_Job.deps.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\bin\Debug\netcoreapp3.1\TextRPG_Job.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\bin\Debug\netcoreapp3.1\TextRPG_Job.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\bin\Debug\netcoreapp3.1\TextRPG_Job.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\bin\Debug\netcoreapp3.1\TextRPG_Job.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\obj\Debug\netcoreapp3.1\TextRPG_Job.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\obj\Debug\netcoreapp3.1\TextRPG_Job.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\obj\Debug\netcoreapp3.1\TextRPG_Job.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\obj\Debug\netcoreapp3.1\TextRPG_Job.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\obj\Debug\netcoreapp3.1\TextRPG_Job.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\obj\Debug\netcoreapp3.1\TextRPG_Job.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Job\obj\Debug\netcoreapp3.1\TextRPG_Job.genruntimeconfig.cache
