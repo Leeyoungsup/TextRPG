@@ -1,0 +1,12 @@
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\bin\Debug\netcoreapp3.1\TextRPG_Monster.exe
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\bin\Debug\netcoreapp3.1\TextRPG_Monster.deps.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\bin\Debug\netcoreapp3.1\TextRPG_Monster.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\bin\Debug\netcoreapp3.1\TextRPG_Monster.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\bin\Debug\netcoreapp3.1\TextRPG_Monster.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\bin\Debug\netcoreapp3.1\TextRPG_Monster.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.genruntimeconfig.cache

@@ -1,16 +1,21 @@
 ﻿using System;
 
-namespace TextRPG_Job
+namespace TextRPG_Monster
 {
     class Program
     {
-        
+        struct Player
+        {
+            public int hp;
+            public int attack;
+
+        }
         enum ClassType
         {
             Knight = 1,
-            None=0,
-            Archer=2,
-            Mage=3
+            None = 0,
+            Archer = 2,
+            Mage = 3
 
 
         }
@@ -26,39 +31,67 @@ namespace TextRPG_Job
             {
                 Choice = ClassType.Knight;
                 Console.WriteLine("기사를 선택하셨습니다.");
-            
+
             }
             else if (input == "2")
             {
                 Choice = ClassType.Archer;
                 Console.WriteLine("궁수를 선택하셨습니다.");
-                
+
             }
             else if (input == "3")
             {
                 Choice = ClassType.Mage;
                 Console.WriteLine("법사를 선택하셨습니다.");
-                
+
             }
             else
             {
                 Console.WriteLine("잘못 입력하셨습니다.");
-                
+
             }
             return Choice;
         }
+        static void CreatePlayer(ClassType Choice, out Player player)
+        {
+            player.hp = 0;
+            player.attack = 0;
+            if (Choice == ClassType.Knight)
+            {
+                player.hp = 100;
+                player.attack = 10;
+            }
+            else if (Choice == ClassType.Archer)
+            {
+                player.hp = 75;
+                player.attack = 12;
+            }
+            else if (Choice == ClassType.Mage)
+            {
+                player.hp = 50;
+                player.attack = 15;
+            }
+
+        }
+
         static void Main(string[] args)
         {
-            while(true)
+            while (true)
             {
                 ClassType Choice = Program.ChooseClass();
-                if(Choice!=ClassType.None)
+                if (Choice != ClassType.None)
                 {
-                    break;
+                    //캐릭터생성
+                    Player player;
+                    CreatePlayer(Choice, out player);
+                    Console.WriteLine($"HP: {player.hp}    attack: {player.attack}");
+                    //createPlayer
+                    //기사(100/10) 궁수(75/12) 법사(50/15)
+                    //필드로 가서 pve
                 }
             }
-            
-            
+
+
         }
     }
 }

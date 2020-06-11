@@ -1,0 +1,12 @@
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\bin\Debug\netcoreapp3.1\TextRPG_Player.exe
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\bin\Debug\netcoreapp3.1\TextRPG_Player.deps.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\bin\Debug\netcoreapp3.1\TextRPG_Player.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\bin\Debug\netcoreapp3.1\TextRPG_Player.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\bin\Debug\netcoreapp3.1\TextRPG_Player.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\bin\Debug\netcoreapp3.1\TextRPG_Player.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\obj\Debug\netcoreapp3.1\TextRPG_Player.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\obj\Debug\netcoreapp3.1\TextRPG_Player.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\obj\Debug\netcoreapp3.1\TextRPG_Player.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\obj\Debug\netcoreapp3.1\TextRPG_Player.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\obj\Debug\netcoreapp3.1\TextRPG_Player.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Player\obj\Debug\netcoreapp3.1\TextRPG_Player.genruntimeconfig.cache
