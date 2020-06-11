@@ -10,3 +10,4 @@ C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\Text
 C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.dll
 C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.pdb
 C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.genruntimeconfig.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Monster\obj\Debug\netcoreapp3.1\TextRPG_Monster.csprojAssemblyReference.cache
