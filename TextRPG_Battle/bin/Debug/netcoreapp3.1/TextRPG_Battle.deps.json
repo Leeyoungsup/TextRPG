@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TextRPG_Battle/1.0.0": {
+        "runtime": {
+          "TextRPG_Battle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextRPG_Battle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

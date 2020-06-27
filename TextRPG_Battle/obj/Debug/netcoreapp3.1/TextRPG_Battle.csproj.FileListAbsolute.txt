@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\bin\Debug\netcoreapp3.1\TextRPG_Battle.exe
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\bin\Debug\netcoreapp3.1\TextRPG_Battle.deps.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\bin\Debug\netcoreapp3.1\TextRPG_Battle.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\bin\Debug\netcoreapp3.1\TextRPG_Battle.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\bin\Debug\netcoreapp3.1\TextRPG_Battle.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\bin\Debug\netcoreapp3.1\TextRPG_Battle.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\obj\Debug\netcoreapp3.1\TextRPG_Battle.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\obj\Debug\netcoreapp3.1\TextRPG_Battle.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\obj\Debug\netcoreapp3.1\TextRPG_Battle.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\obj\Debug\netcoreapp3.1\TextRPG_Battle.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\obj\Debug\netcoreapp3.1\TextRPG_Battle.dll
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\obj\Debug\netcoreapp3.1\TextRPG_Battle.pdb
+C:\Users\lys\Desktop\CSharp\TextRPG\TextRPG_Battle\obj\Debug\netcoreapp3.1\TextRPG_Battle.genruntimeconfig.cache
